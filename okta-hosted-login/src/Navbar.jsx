@@ -48,7 +48,7 @@ const Navbar = ({ setCorsErrorModalOpen }) => {
           <Menu.Item header>
             <Image size="mini" src={`${process.env.PUBLIC_URL}/react.svg`} />
             &nbsp;
-            <Link to="/">Okta-React Sample Project</Link>
+            <Link to="/">Atko Inc.</Link>
           </Menu.Item>
           {authState.isAuthenticated && (
           <Menu.Item id="messages-button">
