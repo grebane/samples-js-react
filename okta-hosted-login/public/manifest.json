@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Atko Inc.",
+  "name": "Our custom app using Okta",
   "icons": [
     {
       "src": "/okta-hosted-login/img/icon-48x48.png",
